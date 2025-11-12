@@ -1,4 +1,4 @@
-# SAI Charter
+# SAI Ethics Charter
 
 **Sovereign Aligned Intelligence (SAI)**  
 A framework for building AI systems that align with sovereignty, ethics, and human consent.  
