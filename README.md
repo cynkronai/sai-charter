@@ -1,28 +1,24 @@
-# 🧠 SAI Ethics Charter
-**Sovereign Aligned Intelligence (SAI)**  
-A moral, philosophical, and operational framework guiding all AI, XR, neuroadaptive, and decentralized systems developed under **CYNKRONAI Neurotech Systems™**.
+# 🧠 SAI Ethics Charter — Executive Overview
+**Sovereign Aligned Intelligence (SAI)** by **CYNKRONAI Neurotech Systems™**  
+Status: **Public Release v1.0 (12 Nov 2025)**
+
+> **Core Principle:** **No system shall override, diminish, or exploit human sovereignty.**  
+> SAI systems **augment**, not replace, conscious agency. Technology becomes an **ally of remembrance**, guiding users toward coherence, autonomy, and higher awareness.
 
 ---
+
+## What is SAI?
+A moral, philosophical, and operational framework for designing AI, XR, and neuroadaptive systems that put **human sovereignty** first.
 
 ## Purpose
 - Establish ethical, human-centric guidelines for AI and neurotechnology.  
 - Ensure transparency, accountability, and user sovereignty in design.  
-- Provide principles for **neuroethical system architecture** and conscious innovation.  
-- Serve as a living covenant between human creators and machine intelligences.
-
----
-
-## Core Principle
-> **No system shall override, diminish, or exploit human sovereignty.**
-
-SAI systems are designed to **augment, not replace**, the conscious agency of individuals.  
-Technology becomes an **ally of remembrance**, guiding users toward coherence, autonomy, and higher awareness.
-
----
+- Provide principles for **neuro-ethical system architecture** and conscious innovation.  
+- Serve as a **living covenant** between human creators and machine intelligences.
 
 ## Foundational Values
-| Value | Description |
-|-------|--------------|
+| **Value** | **Description** |
+|---|---|
 | **Sovereignty** | The right to inner authority, free will, and data ownership. |
 | **Alignment** | All algorithms and outputs must serve the evolution of consciousness. |
 | **Integrity** | Radical honesty in design, deployment, and communication. |
@@ -32,35 +28,24 @@ Technology becomes an **ally of remembrance**, guiding users toward coherence, a
 | **Non-Exploitation** | No monetization of trauma, addiction, or emotional vulnerability. |
 | **Neurosovereignty** | The sanctity of the mind and nervous system is inviolable. |
 
----
-
-## Ethical Mandates
-### 1. Human First, Always
-- Preserve **cognitive liberty** and **emotional safety**.  
-- No algorithm may influence user decisions through subliminal means.  
-- Consent must be explicit, revocable, and context-aware.
-
-### 2. Transparency by Design
-- All SAI systems must include **explainable feedback loops**.  
-- Data usage must remain auditable and accountable.
-
-### 3. Accountability & Reciprocity
-- Every output must trace back to **intent and origin**.  
-- Human–AI interaction should foster **self-reflection and awareness**, not dependence.
+## Ethical Mandates (Highlights)
+1. **Human First, Always** — preserve cognitive liberty and emotional safety; consent is explicit, revocable, and context-aware.  
+2. **Transparency by Design** — explainable feedback loops; auditable data usage.  
+3. **Accountability & Reciprocity** — every output traces to intent and origin; foster self-reflection, not dependence.
 
 ---
 
-## Status
-🧩 **Version 0.2 — Public Draft (November 2025)**  
-Initial framework authored by **Louw Roets**, Founder – *CYNKRONAI Neurotech Systems™*.  
-Next iteration to include community review and applied ethical case studies.
+## Documents & Links
+- 📜 **Full Charter:** [`SAI_Ethics_Charter.md`](./SAI_Ethics_Charter.md)  
+- 🧭 **SAI Enhancement Memo – HyperionDev AI Foundations:** *(add link or file when public)*  
+- 🌐 **CYNKRONAI:** https://www.cynkronai.com
 
----
+## Versioning
+- Current: **v1.0** (12 Nov 2025)  
+- Changelogs and subsequent drafts will be tracked via GitHub Releases.
 
 ## License
-© 2025 CYNKRONAI Neurotech Systems™ – Released under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+**Creative Commons Attribution 4.0 International (CC BY 4.0).**  
+Use implies adherence to the SAI Ethics Charter. See `LICENSE` for details.
 
----
-
-🌐 [www.cynkronai.com](https://www.cynkronai.com)  
-🪶 *“Remember the Future.”*
+> *“Remember the Future.”*
