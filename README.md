@@ -37,7 +37,8 @@ A moral, philosophical, and operational framework for designing AI, XR, and neur
 
 ## Documents & Links
 - 📜 **Full Charter:** [`SAI_Ethics_Charter.md`](./SAI_Ethics_Charter.md)  
-- 🧭 **SAI Enhancement Memo – HyperionDev AI Foundations:** *(add link or file when public)*  
+- 🧭 **SAI Enhancement Memo – HyperionDev AI Foundations:** *(add link or file when public)*
+- 📄 PDF (v1.0): [Release asset](https://github.com/cynkronai/sai-charter/releases/tag/v1.0.0)
 - 🌐 **CYNKRONAI:** https://www.cynkronai.com
 
 ## Versioning
