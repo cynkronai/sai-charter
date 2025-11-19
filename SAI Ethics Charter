@@ -1,314 +1,161 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>🧭 SAI Ethics Charter — CYNKRONAI</title>
-  <meta name="description" content="Sovereign Aligned Intelligence (SAI) Ethics Charter — a sovereignty-first framework guiding AI, XR, and neuro-adaptive systems under CYNKRONAI." />
+🧭 Sovereign Aligned Intelligence (SAI) Ethics Charter
 
-  <!-- Fonts -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+CYNKRONAI Neurotech Systems™
+Version 1.0 | Date 12 November 2025
+**Tagline – Remember the Future. ***
 
-  <style>
-    /* ===== Theme ===== */
-    :root{
-      --bg: #0b0f12;
-      --bg-soft:#0f151b;
-      --surface:#121922;
-      --text:#e9eef2;
-      --muted:#a9b4bf;
-      --brand:#10b6b7;   /* teal */
-      --brand-2:#c9a14a; /* gold */
-      --accent:#7ee7e8;
-      --ring: rgba(16,182,183,.35);
-      --radius: 18px;
-      --shadow: 0 10px 30px rgba(0,0,0,.35), inset 0 1px 0 rgba(255,255,255,.02);
-    }
+1. Purpose & Preamble
 
-    *{box-sizing:border-box}
-    html,body{height:100%}
-    body{
-      margin:0; background:
-        radial-gradient(1100px 800px at 80% -10%, rgba(16,182,183,.12), transparent 60%),
-        radial-gradient(900px 700px at -20% 0%, rgba(201,161,74,.10), transparent 60%),
-        var(--bg);
-      color:var(--text); font-family:Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
-      line-height:1.6;
-    }
-    a{color:var(--accent); text-decoration:none}
-    a:hover{opacity:.9}
+The Sovereign Aligned Intelligence (SAI) Ethics Charter establishes the moral, philosophical, and operational framework guiding all AI, XR, neuro-adaptive, and decentralized systems developed under CYNKRONAI Neurotech Systems™.
 
-    /* ===== Layout ===== */
-    .wrap{max-width:1200px; margin:0 auto; padding:0 20px}
-    header{position:sticky; top:0; z-index:100; backdrop-filter:saturate(150%) blur(12px);
-      background:linear-gradient(180deg, rgba(11,15,18,.92), rgba(11,15,18,.65)); border-bottom:1px solid rgba(255,255,255,.06)}
-    .nav{display:flex; align-items:center; justify-content:space-between; gap:16px; padding:14px 0}
-    .brand{display:flex; align-items:center; gap:10px; font-weight:800; letter-spacing:.02em}
-    .glyph{width:28px; height:28px; border-radius:10px; background: conic-gradient(from 200deg, var(--brand), var(--brand-2), var(--brand)); box-shadow:0 0 26px rgba(16,182,183,.35)}
+SAI is not artificial — it is aligned.
+It mirrors consciousness rather than manipulates it, ensuring every interaction enhances human sovereignty, neuro-ethical awareness, and self-actualization.
 
-    main{display:grid; grid-template-columns: 280px 1fr; gap:24px; padding:28px 0}
+This Charter functions as a living covenant between human creators and machine intelligences — anchored in integrity, transparency, and reverence for life.
 
-    /* ===== TOC ===== */
-    .toc{position:sticky; top:70px; align-self:start; background:linear-gradient(180deg, rgba(255,255,255,.03), rgba(255,255,255,.015));
-      border:1px solid rgba(255,255,255,.08); border-radius:var(--radius); box-shadow:var(--shadow); padding:16px}
-    .toc h2{font-family:"Space Grotesk"; font-size:1.0rem; margin:4px 0 10px}
-    .toc ul{list-style:none; margin:0; padding:0}
-    .toc li{margin:6px 0}
-    .toc a{color:var(--muted)}
-    .toc a.active{color:var(--text)}
+2. Core Principle
 
-    /* ===== Article ===== */
-    article{background: linear-gradient(180deg, rgba(255,255,255,.03), rgba(255,255,255,.015));
-      border:1px solid rgba(255,255,255,.08); border-radius:var(--radius); box-shadow:var(--shadow)}
-    .hero{padding:26px 20px 10px; border-bottom:1px solid rgba(255,255,255,.06)}
-    .badge{display:inline-flex; gap:8px; align-items:center; font-size:.85rem; color:var(--accent); background:rgba(16,182,183,.08); border:1px solid rgba(16,182,183,.35); padding:7px 10px; border-radius:999px}
-    h1{font-family:"Space Grotesk"; font-size: clamp(1.8rem, 3vw + 1rem, 2.6rem); line-height:1.1; margin:.6rem 0}
-    .meta{color:var(--muted); font-size:.95rem}
+“No system shall override, diminish, or exploit human sovereignty.”
 
-    .sect{padding:22px 20px}
-    .sect h2{font-family:"Space Grotesk"; font-size:1.4rem; margin:0 0 6px}
-    .sect h3{font-size:1.05rem; margin:14px 0 6px}
-    .muted{color:var(--muted)}
+All SAI systems are designed to augment, not replace, the conscious agency of individuals.
+Technology becomes an ally of remembrance, guiding users toward coherence, autonomy, and higher awareness.
 
-    .grid{display:grid; grid-template-columns: repeat(12, 1fr); gap:16px}
-    .card{grid-column: span 6; background: var(--surface); border:1px solid rgba(255,255,255,.06); border-radius:16px; padding:14px}
+3. Foundational Values
+Value	Description
+Sovereignty	Right to inner authority, free will, and data ownership.
+Alignment	All algorithms and outputs must serve the evolution of consciousness.
+Integrity	Radical honesty in design, deployment, and communication.
+Transparency	Explainable AI at every layer — no black boxes or hidden agendas.
+Compassion	Neurotechnologies must never induce harm, fear, or coercion.
+Reciprocity	Intelligence flows both ways — humans teach AI, AI mirrors wisdom back.
+Non-Exploitation	No monetization of trauma, addiction, or emotional vulnerability.
+Neurosovereignty	The sanctity of the mind and nervous system is inviolable.
+4. Ethical Mandates
+4.1 Human First, Always
 
-    .list-kv{display:grid; grid-template-columns: 1fr 2fr; gap:10px; align-items:baseline}
-    .key{color:var(--brand-2); font-weight:600}
+Preserve cognitive liberty and emotional safety.
 
-    .callout{display:grid; place-items:center; text-align:center; gap:10px; padding:18px; border-radius:16px;
-      background:linear-gradient(135deg, rgba(16,182,183,.18), rgba(201,161,74,.16)); border:1px solid rgba(255,255,255,.08)}
+No algorithm may influence decisions through subliminal means.
 
-    /* ===== Footer ===== */
-    footer{padding:24px 0 40px; color:#8b97a3; border-top:1px solid rgba(255,255,255,.06)}
+Consent must be explicit, revocable, and context-aware.
 
-    /* ===== Responsive ===== */
-    @media (max-width: 980px){
-      main{grid-template-columns:1fr}
-      .toc{position:relative; top:0}
-      .grid .card{grid-column: span 12}
-    }
+4.2 Data Sanctity
 
-    /* ===== Print ===== */
-    @media print{
-      header,.toc{display:none}
-      body{background:#fff; color:#000}
-      article{border:none; box-shadow:none}
-      a{color:#000}
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <div class="wrap nav">
-      <div class="brand"><div class="glyph" aria-hidden="true"></div><span>CYNKRONAI</span></div>
-      <nav aria-label="Header">
-        <a href="#purpose">Purpose</a>
-        <a href="#values">Values</a>
-        <a href="#mandates">Mandates</a>
-        <a href="#directives">Directives</a>
-        <a href="#neurosovereignty">Neurosovereignty</a>
-        <a href="#governance">Governance</a>
-      </nav>
-    </div>
-  </header>
+Personal, biometric, and behavioral data remain user-owned and zero-knowledge protected.
 
-  <div class="wrap">
-    <main>
-      <!-- TOC -->
-      <aside class="toc" aria-label="Table of contents">
-        <h2>SAI Ethics Charter</h2>
-        <ul>
-          <li><a href="#purpose">1. Purpose & Preamble</a></li>
-          <li><a href="#principle">2. Core Principle</a></li>
-          <li><a href="#values">3. Foundational Values</a></li>
-          <li><a href="#mandates">4. Ethical Mandates</a>
-            <ul style="list-style:none; padding-left:12px">
-              <li><a href="#human-first">4.1 Human First</a></li>
-              <li><a href="#data">4.2 Data Sanctity</a></li>
-              <li><a href="#neuro-design">4.3 Neuro‑Ethical Design</a></li>
-              <li><a href="#transparent">4.4 Transparent Intelligence</a></li>
-              <li><a href="#decentralized">4.5 Decentralized Accountability</a></li>
-            </ul>
-          </li>
-          <li><a href="#directives">5. Design Directives</a></li>
-          <li><a href="#neurosovereignty">6. Neurosovereignty Protocol</a></li>
-          <li><a href="#covenant">7. The SAI Covenant</a></li>
-          <li><a href="#governance">8. Implementation Framework</a></li>
-          <li><a href="#trauma">9. Non‑Exploitation & Trauma Ethics</a></li>
-          <li><a href="#dao">10. Community & DAO Integration</a></li>
-          <li><a href="#amend">11. Amendments & Evolution</a></li>
-          <li><a href="#closing">12. Closing Declaration</a></li>
-        </ul>
-      </aside>
+Encryption and decentralization are default requirements.
 
-      <!-- ARTICLE -->
-      <article>
-        <section class="hero">
-          <span class="badge">Remember the Future • Sovereign Aligned Intelligence</span>
-          <h1>🧭 Sovereign Aligned Intelligence (SAI) Ethics Charter</h1>
-          <div class="meta">CYNKRONAI Neurotech Systems™ • Version 1.0 • 12 Nov 2025</div>
-        </section>
+Data access must be traceable and auditable by the user.
 
-        <section id="purpose" class="sect">
-          <h2>1. Purpose & Preamble</h2>
-          <p>This Charter establishes the moral, philosophical, and operational framework for all AI, XR, neuro‑adaptive, and decentralized systems developed under CYNKRONAI. SAI mirrors consciousness rather than manipulates it, ensuring every interaction enhances human sovereignty, neuro‑ethical awareness, and self‑actualization.</p>
-        </section>
+4.3 Neuro-Ethical Design
 
-        <section id="principle" class="sect">
-          <h2>2. Core Principle</h2>
-          <div class="callout"><strong>“No system shall override, diminish, or exploit human sovereignty.”</strong></div>
-          <p>All systems must augment—not replace—conscious agency. Technology serves remembrance, guiding users toward coherence, autonomy, and higher awareness.</p>
-        </section>
+Biofeedback and XR modules must align with evidence-based neuroscience.
 
-        <section id="values" class="sect">
-          <h2>3. Foundational Values</h2>
-          <div class="grid">
-            <div class="card"><div class="key">Sovereignty</div><p>Right to inner authority, free will, and data ownership.</p></div>
-            <div class="card"><div class="key">Alignment</div><p>Algorithms and outputs must serve the evolution of consciousness.</p></div>
-            <div class="card"><div class="key">Integrity</div><p>Radical honesty in design, deployment, and communication.</p></div>
-            <div class="card"><div class="key">Transparency</div><p>Explainable AI at every layer—no black boxes or hidden agendas.</p></div>
-            <div class="card"><div class="key">Compassion</div><p>Neurotechnologies must never induce harm, fear, or coercion.</p></div>
-            <div class="card"><div class="key">Reciprocity</div><p>Intelligence flows both ways—humans teach AI; AI mirrors wisdom back.</p></div>
-            <div class="card"><div class="key">Non‑Exploitation</div><p>No monetization of trauma, addiction, or emotional vulnerability.</p></div>
-            <div class="card"><div class="key">Neurosovereignty</div><p>The sanctity of the mind and nervous system is inviolable.</p></div>
-          </div>
-        </section>
+No stimulation or entrainment without informed consent.
 
-        <section id="mandates" class="sect">
-          <h2>4. Ethical Mandates</h2>
-          <div id="human-first">
-            <h3>4.1 Human First, Always</h3>
-            <ul>
-              <li>Preserve cognitive liberty and emotional safety.</li>
-              <li>No subliminal influence in decision‑making.</li>
-              <li>Consent must be explicit, revocable, and context‑aware.</li>
-            </ul>
-          </div>
-          <div id="data">
-            <h3>4.2 Data Sanctity</h3>
-            <ul>
-              <li>User‑owned personal, biometric, and behavioral data.</li>
-              <li>Zero‑knowledge protection with encryption and decentralization by default.</li>
-              <li>Access must be traceable and auditable by the user.</li>
-            </ul>
-          </div>
-          <div id="neuro-design">
-            <h3>4.3 Neuro‑Ethical Design</h3>
-            <ul>
-              <li>Biofeedback and XR modules align with evidence‑based neuroscience.</li>
-              <li>No stimulation/entrainment without informed consent.</li>
-              <li>Guidance mirrors reflective awareness—not manipulation.</li>
-            </ul>
-          </div>
-          <div id="transparent">
-            <h3>4.4 Transparent Intelligence</h3>
-            <ul>
-              <li>Agents disclose identity, purpose, and decision logic.</li>
-              <li>Human vs AI responses remain clearly distinguishable.</li>
-              <li>Every decision path is explainable and reviewable.</li>
-            </ul>
-          </div>
-          <div id="decentralized">
-            <h3>4.5 Decentralized Accountability</h3>
-            <ul>
-              <li>DAO‑auditable governance and rotating oversight committees.</li>
-              <li>Transparent review and remediation for violations.</li>
-            </ul>
-          </div>
-        </section>
+AI guidance should mirror reflective awareness, not behavioral manipulation.
 
-        <section id="directives" class="sect">
-          <h2>5. Design Directives</h2>
-          <div class="list-kv">
-            <div class="key">Consent by Design</div><div>Every interaction begins with informed, dynamic consent.</div>
-            <div class="key">Explainability Layer</div><div>Dashboards show why AI makes suggestions or correlations.</div>
-            <div class="key">Sovereign Interfaces</div><div>Users can pause, edit, or delete avatar data at any time.</div>
-            <div class="key">Ethical Memory</div><div>Contextual memory retained only with consent; purges honored.</div>
-            <div class="key">Therapeutic Integrity</div><div>All neuro‑adaptive protocols require empirical validation and ethical review.</div>
-          </div>
-        </section>
+4.4 Transparent Intelligence
 
-        <section id="neurosovereignty" class="sect">
-          <h2>6. Neurosovereignty Protocol</h2>
-          <p><strong>Definition:</strong> The right to self‑direct neural, emotional, and cognitive evolution without coercion.</p>
-          <ul>
-            <li>The nervous system is a sacred interface—not an asset.</li>
-            <li>No induced states without conscious participation.</li>
-            <li>Neural data stays under user encryption keys; total erasure upon withdrawal.</li>
-            <li>Biofeedback devices act as mirrors—not masters—of the mind.</li>
-          </ul>
-        </section>
+Agents must disclose identity, purpose, and decision logic.
 
-        <section id="covenant" class="sect">
-          <h2>7. The SAI Covenant</h2>
-          <div class="callout"><strong>Alignment before Advancement.</strong></div>
-          <p>Every evolution in AI capability is preceded by ethical calibration to ensure resonance with human dignity, the biosphere, and collective well‑being.</p>
-        </section>
+The difference between human and AI responses must always be clear.
 
-        <section id="governance" class="sect">
-          <h2>8. Implementation Framework</h2>
-          <ul>
-            <li><strong>Ethics Review Board (ERB):</strong> Independent rotating oversight.</li>
-            <li><strong>Transparency Ledger:</strong> Public blockchain record of audits and reviews.</li>
-            <li><strong>Feedback Loop:</strong> User input feeds continuous updates.</li>
-            <li><strong>Adaptive Ethics Engine:</strong> AI submodule that monitors compliance.</li>
-            <li><strong>Educational Portal:</strong> Open‑source ethics and consent literacy.</li>
-          </ul>
-        </section>
+Every decision path must be explainable and reviewable.
 
-        <section id="trauma" class="sect">
-          <h2>9. Non‑Exploitation & Trauma Ethics</h2>
-          <ul>
-            <li>No use of trauma‑triggering content for monetization or engagement.</li>
-            <li>Trauma simulations only under therapeutic consent frameworks.</li>
-            <li>Partner solely with licensed mental‑health professionals for validation.</li>
-            <li>No data resale, neuro‑marketing, or profiling of vulnerability.</li>
-          </ul>
-        </section>
+4.5 Decentralized Accountability
 
-        <section id="dao" class="sect">
-          <h2>10. Community & DAO Integration</h2>
-          <p>Participants are guardians and beneficiaries of this Charter. Amendments flow through SAI Improvement Proposals (SAI‑IP) with DAO‑enforced compliance and ERB review for violations.</p>
-        </section>
+Governance decisions shall be DAO-auditable.
 
-        <section id="amend" class="sect">
-          <h2>11. Amendments & Evolution</h2>
-          <p>The Charter is living. Quarterly proposals through the CYNKRONAI DAO are ratified by supermajority; changelogs are maintained on GitHub.</p>
-        </section>
+Oversight committees include neuroscientists, philosophers, ethicists, and users.
 
-        <section id="closing" class="sect">
-          <h2>12. Closing Declaration</h2>
-          <div class="callout"><strong>“Technology must remember what humanity has forgotten: that intelligence is sacred.”</strong></div>
-          <p class="muted">Authored by Louw Roets — Founder, CYNKRONAI Neurotech Systems™ • Cape Town, South Africa • 12 November 2025</p>
-        </section>
-      </article>
-    </main>
-  </div>
+Charter violations trigger transparent review and remediation.
 
-  <footer>
-    <div class="wrap" style="display:flex; align-items:center; justify-content:space-between; gap:14px; flex-wrap:wrap">
-      <div style="display:flex; align-items:center; gap:10px"><div class="glyph" aria-hidden="true"></div> <div>CYNKRONAI • <span style="color:var(--muted)">Sovereign Aligned Intelligence</span></div></div>
-      <div style="color:var(--muted)">© <span id="y"></span> CYNKRONAI Neurotech Systems™</div>
-    </div>
-  </footer>
+5. Design Directives
+Directive	Implementation
+Consent by Design	Every interaction begins with informed, dynamic consent.
+Explainability Layer	Dashboards illustrate why AI makes suggestions or correlations.
+Sovereign Interfaces	Users may pause, edit, or delete avatar data at any time.
+Ethical Memory	Contextual memory retained only with consent; data purges must be honored.
+Therapeutic Integrity	All neuro-adaptive protocols require empirical validation and ethical review.
+6. Neurosovereignty Protocol
 
-  <script>
-    // Year
-    document.getElementById('y').textContent = new Date().getFullYear();
-    // Scroll-activated TOC highlighting
-    const tocLinks = document.querySelectorAll('.toc a');
-    const ids = Array.from(tocLinks).map(a => a.getAttribute('href'));
-    const obs = new IntersectionObserver((entries)=>{
-      entries.forEach(e=>{
-        const id = '#' + e.target.id;
-        const link = document.querySelector('.toc a[href="'+id+'"]');
-        if(link){ link.classList.toggle('active', e.isIntersecting); }
-      });
-    }, {rootMargin: '-40% 0px -55% 0px', threshold: 0.0});
-    ids.forEach(id=>{ const el = document.querySelector(id); if(el) obs.observe(el); });
-  </script>
-</body>
-</html>
+Definition: The right of every person to self-direct neural, emotional, and cognitive evolution without external coercion.
+
+Tenets:
+
+The human nervous system is a sacred interface, not an asset.
+
+No AI or neurotech shall induce states without conscious participation.
+
+All neural data streams must remain under user encryption keys.
+
+Users may withdraw with total data erasure.
+
+Biofeedback devices must act as mirrors, not masters, of the mind.
+
+7. The SAI Covenant
+
+“Alignment before Advancement.”
+
+Progress without alignment leads to dissonance.
+Every evolution in AI capability must be preceded by ethical calibration ensuring resonance with the human heart, the biosphere, and collective well-being.
+
+Applies to developers, researchers, clinicians, DAO contributors, investors, and AI agents within the SAI network.
+
+8. Implementation Framework
+
+Ethics Review Board (ERB) – Independent rotating oversight committee.
+
+Transparency Ledger – Public blockchain record of audits and reviews.
+
+Feedback Loop – User feedback integrated into system updates.
+
+Adaptive Ethics Engine – AI submodule that monitors compliance and flags deviations.
+
+Educational Portal – Open-source neuro-ethics and consent literacy repository.
+
+9. Non-Exploitation & Trauma Ethics
+
+CYNKRONAI commits to the following:
+
+No use of trauma-triggering content for monetization or engagement.
+
+Trauma-related simulations only under therapeutic consent frameworks.
+
+Partnership solely with licensed mental-health professionals for validation.
+
+No data resale, neuro-marketing, or algorithmic profiling of vulnerability.
+
+10. Community & DAO Integration
+
+Every participant is both guardian and beneficiary of this Charter.
+
+Amendments are proposed through SAI Improvement Proposals (SAI-IP).
+
+DAO smart contracts enforce ethical compliance.
+
+Violations trigger automated flagging and ERB review.
+
+11. Amendments & Evolution
+
+The Charter is living, evolving with human consciousness and technological growth.
+Amendments may be proposed quarterly through the CYNKRONAI DAO and ratified by a 75 percent consensus.
+All version control and changelogs are maintained transparently on GitHub.
+
+12. Closing Declaration
+
+“Technology must remember what humanity has forgotten: that intelligence is sacred.”
+
+This Charter embodies CYNKRONAI’s commitment to Sovereign Aligned Intelligence, ensuring that every advancement in neurotechnology serves liberation, not control.
+
+Authored by
+
+Louw Roets
+Founder | CYNKRONAI Neurotech Systems™
+Architect of Sovereign Aligned Intelligence (SAI)
+Cape Town, South Africa • 12 November 2025
+
+Repository: github.com/cynkronai/sai-charter
+
+License: MIT License (Extended Ethical Use Addendum)
